@@ -7,22 +7,33 @@
  -Group-based access control
  
  -Multi-Factor Authentication (MFA)
+ 
  -Application access governance
+ 
  -Audit logging and compliance readiness
 # Tools Used
  -Okta Workforce Identity (Free Trial)
+ 
  -Okta Verify (MFA)
- SaaS Application (Office 365 / Slack)
+ 
+ -SaaS Application (Office 365 / Slack)
 # Implementation Steps
  -Created users to simulate employee onboarding
+ 
  -Configured security groups for role-based access
+ 
  -Assigned enterprise SaaS applications to groups
+ 
  -Enabled MFA to strengthen authentication security
+ 
  -Reviewed system audit logs for compliance and monitoring
 # Security & Compliance Alignment
  -Least Privilege Access
+ 
  -Access Governance
+ 
  -IT Audit Evidence Collection
+ 
  -SOX / ISO 27001 aligned controls
 # Outcome
  This project reflects hands-on experience with IAM operations, security controls, and audit-ready access management used in real enterprise environments.
